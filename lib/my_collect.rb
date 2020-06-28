@@ -22,10 +22,10 @@ def my_collect(array)
   name_collection
 end
 
-my_collect(list) {|i| i.split(" ").first}
-
-collection = ['ruby', 'javascript', 'python', 'objective-c']
-my_collect(collection) do |lang|
-  lang.upcase
-end
+#my_collect(list) {|i| i.split(" ").first}
+#
+#collection = ['ruby', 'javascript', 'python', 'objective-c']
+#my_collect(collection) do |lang|
+#  lang.upcase
+#end
  
